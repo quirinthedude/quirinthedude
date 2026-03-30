@@ -1,62 +1,80 @@
 # Hi, I'm Quirin 👋
 
-Frontend Developer in training with a focus on JavaScript and modern web interfaces.
+Frontend Developer (JavaScript) focused on building clean, structured web applications.
 
-I currently build projects with:
+I enjoy working with APIs, designing UI systems, and writing code that is easy to understand and extend.
 
-- JavaScript (ES6)
-- HTML / CSS
-- REST APIs
-- Git / GitHub
-- Responsive Web Design
+---
 
-My goal is to grow into a professional frontend developer and contribute to building modern web applications.
+## 🧩 Portfolio
 
-## Portfolio
+🌐 Website: https://quirinpflaum.ch
 
-- Website: [quirinpflaum.ch](https://quirinpflaum.ch)
+---
 
-## Projects
+## 🚀 Projects
 
 ### Pokémon Card Display
 
 ![Preview](https://raw.githubusercontent.com/quirinthedude/PokemonCardDisplay/master/assets/pokemon.png)
 
-A JavaScript web application that fetches and displays Pokémon data from the PokéAPI.
+Frontend Pokédex app built with JavaScript and PokéAPI.
 
-**Main features:**
-- dynamic API data fetching
-- search functionality
-- dialog-based UI
-- responsive layout
-- type-based styling
+**Highlights:**
 
-**What I learned:**
-- working with REST APIs
-- rendering dynamic content in the DOM
-- handling asynchronous JavaScript
-- building responsive UI components
+* API-based type matchups (PokéAPI)
+* dialog-driven UI with tab navigation
+* clean architecture (controller / render separation)
+* data-driven styling via `data-*` attributes
+* responsive card layout
 
-**Repository:**  
-[PokemonCardDisplay](https://github.com/quirinthedude/PokemonCardDisplay)
+🌐 Live: https://pokemon.quirinpflaum.ch/  
+💻 Code: https://github.com/quirinthedude/PokemonCardDisplay
 
 ---
 
 ### Kochwelt (Team Project)
 
-Recipe website developed as a team project during Developer Akademie.
+Recipe web application developed in a team environment.
 
 **My contribution:**
-- HTML / CSS layout
-- responsive design
-- slideshow component
-- DOM manipulation
 
-**Repository:**  
-[Kochwelt](https://github.com/LittleSaint91/Kochwelt)
+* HTML / CSS layout
+* responsive design
+* slideshow component
+* DOM-based interactions
 
-## Currently focusing on
+👉 https://github.com/LittleSaint91/Kochwelt
 
-- strengthening my frontend fundamentals
-- building clean JavaScript projects
-- improving UI structure and API-based applications
+---
+
+## 🧠 Skills & Technologies
+
+* JavaScript (ES6)
+* HTML / CSS
+* REST APIs
+* Git / GitHub
+* Responsive Web Design
+
+---
+
+## 🎯 Currently focusing on
+
+* building structured JavaScript applications
+* improving UI architecture and API-driven design
+* preparing for junior frontend developer roles
+
+---
+
+## 💡 Approach
+
+I focus on writing understandable, structured code and building UI systems that are easy to extend.
+
+---
+
+## 📌 Notes
+
+This portfolio reflects my learning journey.
+I prioritize clean architecture and incremental improvement over feature overload.
+
+
