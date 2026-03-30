@@ -20,6 +20,8 @@ My goal is to grow into a professional frontend developer and contribute to buil
 
 ### Pokémon Card Display
 
+![Preview](https://raw.githubusercontent.com/quirinthedude/PokemonCardDisplay/main/assets/pokemon.png)
+
 A JavaScript web application that fetches and displays Pokémon data from the PokéAPI.
 
 **Main features:**
