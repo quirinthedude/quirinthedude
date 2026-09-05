@@ -11,14 +11,9 @@ I build understandable, maintainable web applications and document my progress t
 
 ## 🚀 Current Showpieces
 
-### PAI Showcase
-
-Technical showcase for deterministic RAG search with SQLite FTS5, BM25 ranking, traceable retrieval and grounding checks.
-
-**Technologies:** Python · SQLite FTS5 · BM25 · RAG  
-💻 Code: https://github.com/quirinthedude/pai-showcase
-
 ### Join Showcase
+
+![Join Showcase](https://raw.githubusercontent.com/quirinthedude/Join-Showcase/main/assets/screenshots/join.png)
 
 Web-based Kanban tool for task and project management with drag and drop, authentication and persistent data.
 
@@ -28,11 +23,22 @@ Web-based Kanban tool for task and project management with drag and drop, authen
 
 ### Angry Forrest
 
+![Angry Forrest](https://raw.githubusercontent.com/quirinthedude/Angry-Forrest/main/img/screenshots/intro-screen.png)
+
 C64-inspired 2D jump-'n'-run in the browser with a custom JavaScript game architecture.
 
 **Focus:** OOP · game loop · Canvas · animation · collision handling  
 🌐 Live: https://angryforrest.quirinpflaum.ch/  
 💻 Code: https://github.com/quirinthedude/Angry-Forrest
+
+## 🧪 Technical Experiment
+
+### PAI Showcase
+
+Technical showcase for deterministic RAG search with SQLite FTS5, BM25 ranking, traceable retrieval and grounding checks. This is currently a technical backend/retrieval experiment; a visual frontend may follow.
+
+**Technologies:** Python · SQLite FTS5 · BM25 · RAG  
+💻 Code: https://github.com/quirinthedude/pai-showcase
 
 ## 🛠️ Additional Projects
 
