@@ -1,80 +1,59 @@
 # Hi, I'm Quirin 👋
 
-Frontend Developer (JavaScript) focused on building clean, structured web applications.
+Fullstack Developer in training, focused on structured JavaScript applications, APIs, UI systems and practical AI/RAG experiments.
 
-I enjoy working with APIs, designing UI systems, and writing code that is easy to understand and extend.
-
----
+I build understandable, maintainable web applications and document my progress through hands-on projects.
 
 ## 🧩 Portfolio
 
-🌐 Website: https://quirinpflaum.ch
+🌐 Website: https://quirinpflaum.ch  
+💼 LinkedIn: https://www.linkedin.com/in/quirin-pflaum-basel/
 
----
+## 🚀 Current Showpieces
 
-## 🚀 Projects
+### PAI Showcase
 
-### Pokémon Card Display
+Technical showcase for deterministic RAG search with SQLite FTS5, BM25 ranking, traceable retrieval and grounding checks.
 
-![Preview](https://raw.githubusercontent.com/quirinthedude/PokemonCardDisplay/master/assets/pokemon.png)
+**Technologies:** Python · SQLite FTS5 · BM25 · RAG  
+💻 Code: https://github.com/quirinthedude/pai-showcase
 
-Frontend Pokédex app built with JavaScript and PokéAPI.
+### Join Showcase
 
-**Highlights:**
+Web-based Kanban tool for task and project management with drag and drop, authentication and persistent data.
 
-* API-based type matchups (PokéAPI)
-* dialog-driven UI with tab navigation
-* clean architecture (controller / render separation)
-* data-driven styling via `data-*` attributes
-* responsive card layout
+**Technologies:** HTML · CSS · JavaScript · Firebase  
+🌐 Live: https://join.quirinpflaum.ch/  
+💻 Code: https://github.com/quirinthedude/Join-Showcase
 
-🌐 Live: https://pokemon.quirinpflaum.ch/  
-💻 Code: https://github.com/quirinthedude/PokemonCardDisplay
+### Angry Forrest
 
----
+C64-inspired 2D jump-'n'-run in the browser with a custom JavaScript game architecture.
 
-### Kochwelt (Team Project)
+**Focus:** OOP · game loop · Canvas · animation · collision handling  
+🌐 Live: https://angryforrest.quirinpflaum.ch/  
+💻 Code: https://github.com/quirinthedude/Angry-Forrest
 
-Recipe web application developed in a team environment.
+## 🛠️ Additional Projects
 
-**My contribution:**
-
-* HTML / CSS layout
-* responsive design
-* slideshow component
-* DOM-based interactions
-
-👉 https://github.com/LittleSaint91/Kochwelt
-
----
+- **Pokémon Card Display** — API-driven Pokédex with dynamic rendering, pagination and dialog navigation.  
+  🌐 https://pokemon.quirinpflaum.ch/ · 💻 https://github.com/quirinthedude/PokemonCardDisplay
+- **Fotogram** — Social-media-inspired frontend project focused on layout and UI structure.  
+  🌐 https://fotogram.quirinpflaum.ch/ · 💻 https://github.com/quirinthedude/fotogram
+- **Kochwelt** — Team recipe-platform project with responsive design, slideshow logic and DOM interactions.  
+  🌐 https://kochwelt.quirinpflaum.ch/ · 💻 https://github.com/LittleSaint91/Kochwelt
 
 ## 🧠 Skills & Technologies
 
-* JavaScript (ES6)
-* HTML / CSS
-* REST APIs
-* Git / GitHub
-* Responsive Web Design
-
----
+JavaScript (ES6) · Python · HTML/CSS · REST APIs · Firebase · SQLite FTS5 · BM25/RAG · Git/GitHub · Responsive Web Design · OOP
 
 ## 🎯 Currently focusing on
 
-* building structured JavaScript applications
-* improving UI architecture and API-driven design
-* preparing for junior frontend developer roles
-
----
+- building structured JavaScript and Python applications
+- improving UI architecture and API-driven design
+- exploring reproducible retrieval and evaluation workflows
+- preparing for junior frontend/fullstack developer roles
 
 ## 💡 Approach
 
-I focus on writing understandable, structured code and building UI systems that are easy to extend.
-
----
-
-## 📌 Notes
-
-This portfolio reflects my learning journey.
-I prioritize clean architecture and incremental improvement over feature overload.
-
-
+I prioritize clear architecture, understandable code and incremental improvement over feature overload.
